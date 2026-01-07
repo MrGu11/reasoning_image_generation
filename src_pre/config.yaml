@@ -1,0 +1,8 @@
+matrix_size: 3           # 3x3 RPM by default
+templates:
+  - simple_rotate
+  - count_increment
+  - reflect_symmetry
+output:
+  svg_scale: 200
+  canvas_size: [256, 256]
