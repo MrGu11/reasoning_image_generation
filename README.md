@@ -1,6 +1,6 @@
 # reasoning_image_generation
 
-**Repository by** :contentReference[oaicite:2]{index=2} — 一个用于“基于推理的图/多图 (multi-graph) 驱动图像生成”研究/实验的代码库（仓库在 GitHub 上，可见 `multigraph_generation` 与 `src` 目录）。:contentReference[oaicite:3]{index=3}
+**Repository by** — 一个用于“基于推理的图/多图 (multi-graph) 驱动图像生成”研究/实验的代码库（仓库在 GitHub 上，可见 `multigraph_generation` 与 `src` 目录）。
 
 ---
 
@@ -17,8 +17,8 @@
 
 ## 主要特点
 
-- 抽象化的 multigraph 生成与表示模块（位于 `multigraph_generation/`）。:contentReference[oaicite:5]{index=5}  
-- 用于训练/推理与数据预处理的脚本与工具（位于 `src/`）。:contentReference[oaicite:6]{index=6}  
+- 抽象化的 multigraph 生成与表示模块（位于 `multigraph_generation/`）。
+- 用于训练/推理与数据预处理的脚本与工具（位于 `src/`）。
 - 便于替换底层图像生成器（如可接入现有的 diffusion / GAN / autoregressive 模型）  
 - 示例配置与可复现的实验流程（建议在仓库中补充 `configs/` 与 `examples/`）
 
