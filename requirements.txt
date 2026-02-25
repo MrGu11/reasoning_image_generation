@@ -1,0 +1,11 @@
+python>=3.8
+torch
+numpy
+pyyaml
+networkx
+tqdm
+Pillow
+transformers
+diffusers
+omegaconf
+matplotlib
