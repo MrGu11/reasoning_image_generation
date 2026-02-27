@@ -6,6 +6,4 @@ networkx
 tqdm
 Pillow
 transformers
-diffusers
-omegaconf
 matplotlib
